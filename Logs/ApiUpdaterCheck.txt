@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 11/07/2021 10:21:03 : Starting C:/Users/ester/Desktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 644,9872ms
+moved types parse time: 86ms
+candidates parse time : 1ms
+C# parse time         : 480ms
+candidates check time : 43ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 11/07/2021 10:22:01 : Starting C:/Users/ester/Desktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57,283ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 241ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/07/2021 23:21:11 : Starting C:/Users/ester/Desktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63,289ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 231ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/07/2021 01:06:39 : Starting C:/Users/ester/Desktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59,8776ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 233ms
+candidates check time : 37ms
+console write time    : 0ms
+
